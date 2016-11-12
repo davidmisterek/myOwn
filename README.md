@@ -1,0 +1,2 @@
+# myOwn
+My first attempt
